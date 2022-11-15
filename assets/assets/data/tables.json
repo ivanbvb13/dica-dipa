@@ -1,0 +1,388 @@
+[
+    {
+        "indicador": "FACU_01",
+        "descipcion_tabla": "Relación de docentes que han participado en congresos, seminarios simposios y talleres nacionales e internacionales de orden académico, como expositores",
+        "indicadores": [
+            {
+                "indicador": "3-21",
+                "descipcion_indicador": "Información verificable sobre el estado de la interacción académica del profesorado, por áreas de conocimiento, con comunidades académicas nacionales e internacionales."
+            },
+            {
+                "indicador": "5-3",
+                "descipcion_indicador": "Existencia de convenios activos y actividades de cooperación académica desarrollados con instituciones de reconocimiento nacional e internacional."
+            },
+            {
+                "indicador": "5-8",
+                "descipcion_indicador": "Información verificable sobre los resultados de la interacción con comunidades académicas nacionales e internacionales y su incidencia en la calidad de la Institución."
+            }
+        ],
+        "items_colum": [
+            "PERIODO",
+            "SEDE",
+            "PROGRAMA",
+            "NOMBRE DEL DOCENTE",
+            "NOMBRE LA CONFERENCIA O EXPOSICIÓN",
+            "NOMBRE DEL EVENTO",
+            "INSTITUCIÓN DONDE SE REALIZÓ EL EVENTO",
+            "FECHA DE INICIO DEL EVENTO",
+            "FECHA DE TERMINACIÓN DEL EVENTO",
+            "INSTITUCIÓN NACIONAL",
+            "INSTITUCIÓN INTERNACIONAL",
+            "La participación se hizo como parte de interacción en red?",
+            "NOMBRE DE LA RED O ALIANZA (Si aplica)",
+            ""
+        ]
+    },
+    {
+        "indicador": "FACU_02",
+        "descipcion_tabla": "Relación de docentes que han recibido reconocimientos o distinciones por entidades externas",
+        "indicadores": [
+            {
+                "indicador": "3-19",
+                "descipcion_indicador": "Información verificable sobre la aplicación de criterios de reconocimiento al ejercicio calificado de las funciones misionales."
+            },
+            {
+                "indicador": "7-9",
+                "descipcion_indicador": "Reconocimiento externo de las repercusiones sociales de las  actividades de docencia, investigación y extensión o proyección social de  la institución. "
+            },
+            {
+                "indicador": "6-16",
+                "descipcion_indicador": "Premios y distinciones por trabajos de investigación obtenidos por los docentes, otorgados por instituciones de reconocido prestigio académico."
+            }
+        ],
+        "items_colum": [
+            "AÑO",
+            "PROGRAMA",
+            "SEDE",
+            "NOMBRE DEL RECONOCIMIENTO, PREMIO O DISTINCIÓN (EXTERNOS)",
+            "NOMBRE DE LA ENTIDAD",
+            "INVESTIGATIVO",
+            "PROYECCIÓN SOCIAL",
+            "DOCENCIA",
+            "OTRO (Cuál)",
+            "NOMBRE DEL DOCENTE RECONOCIDO",
+            "FECHA EN QUE RECIBIÓ EL RECONOCIMIENTO",
+            ""
+        ]
+    },
+    {
+        "indicador": "FACU_03",
+        "descipcion_tabla": "Relación  de docentes que pertenecen a asociaciones nacionales e internacionales de orden académico y profesionales",
+        "indicadores": [
+            {
+                "indicador": "3-21",
+                "descipcion_indicador": "Información verificable sobre el estado de la interacción académica del profesorado, por áreas de conocimiento, con comunidades académicas nacionales e internacionales."
+            }
+        ],
+        "items_colum": [
+            "año afiliacion",
+            "programa",
+            "sede",
+            "nombre del docente",
+            "de caracter nacional",
+            "de caracter internacional",
+            "asociacion",
+            ""
+        ]
+    },
+    {
+        "indicador": "FACU_04",
+        "descipcion_tabla": "Relación de docentes que participan en redes académicas",
+        "indicadores": [
+            {
+                "indicador": "3-21",
+                "descipcion_indicador": "Información verificable sobre el estado de la interacción académica del profesorado, por áreas de conocimiento, con comunidades académicas nacionales e internacionales."
+            }
+        ],
+        "items_colum": [
+            "año afiliacion",
+            "programa",
+            "sede",
+            "nombre del docente",
+            "de caracter nacional",
+            "de caracter internacional",
+            "asociacion",
+            ""
+        ]
+    },
+    {
+        "indicador": "FACU_05",
+        "descipcion_tabla": "Relación de Foros, seminarios, coloquios, jornadas de actualización, talleres,  revistas y  periódicos, entre otros, organizados por los programas, y número de asistentes \nNo incluir las jornadas o actividades organizadas exclusivamente para egresados",
+        "indicadores": [
+            {
+                "indicador": "4-1",
+                "descipcion_indicador": "Existencia de ambientes propicios para la discusión crítica sobre la ciencia, la tecnología, la innovación, el arte, la cultura, los valores, la sociedad y el Estado."
+            },
+            {
+                "indicador": "7-14",
+                "descipcion_indicador": "Existencia de ambientes propicios para la discusión crítica sobre la ciencia, la tecnología, la innovación, el arte, la cultura, los valores, la sociedad y el Estado."
+            }
+        ],
+        "items_colum": [
+            "AÑO",
+            "PROGRAMA",
+            "SEDE",
+            "NOMBRE DE LA ACTIVIDAD O EVENTO",
+            "ÁREA DE CONOCIMIENTO",
+            "NÚMERO DE ASISTENTES INTERNOS (SI APLICA)",
+            "NÚMERO DE ASISTENTES EXTERNOS (SI APLICA)",
+            ""
+        ]
+    },
+    {
+        "indicador": "FACU_06",
+        "descipcion_tabla": "Relación de proyectos de grado - Programas de pregrado",
+        "indicadores": [
+            {
+                "indicador": "4-10",
+                "descipcion_indicador": "Existencia y aplicación de políticas y estrategias para garantizar la vinculación de programas académicos y de sus estudiantes con la actividad investigativa de la institución, teniendo en cuenta la naturaleza de los programas y sus propósitos formativos."
+            }
+        ],
+        "items_colum": [
+            "PERIODO",
+            "PROGRAMA",
+            "SEDE",
+            "TRABAJO DE GRADO",
+            "Semillero",
+            "NOMBRE DEL PROYECTO DE GRADO",
+            "NOMBRE AUTOR(ES)",
+            ""
+        ]
+    },
+    {
+        "indicador": "FACU_07",
+        "descipcion_tabla": "Relación de proyectos de grado - Programas de postgrado",
+        "indicadores": [
+            {
+                "indicador": "4-10",
+                "descipcion_indicador": "Existencia y aplicación de políticas y estrategias para garantizar la vinculación de programas académicos y de sus estudiantes con la actividad investigativa de la institución, teniendo en cuenta la naturaleza de los programas y sus propósitos formativos."
+            }
+        ],
+        "items_colum": [
+            "PERIODO",
+            "PROGRAMA",
+            "SEDE",
+            "NOMBRE DEL PROYECTO DE GRADO",
+            "NOMBRE AUTOR(ES)",
+            ""
+        ]
+    },
+    {
+        "indicador": "FACU_08",
+        "descipcion_tabla": "PROFESORES VISITANTES A LA INSTITUCIÓN",
+        "indicadores": [
+            {
+                "indicador": "5-13",
+                "descipcion_indicador": "Información verificable sobre docentes o expertos visitantes nacionales y extranjeros que ha recibido la institución (objetivos, duración  y resultados de su estadía)"
+            }
+        ],
+        "items_colum": [
+            "AÑO",
+            "PROGRAMA",
+            "SEDE",
+            "NOMBRE",
+            "ENTIDAD ORIGEN",
+            "PAIS ORIGEN",
+            "OBJETO DE LA VISITA",
+            "FECHA DE LLEGADA",
+            "FECHA DE SALIDA",
+            "DURACIÓN ESTADÍA (DÍAS)",
+            ""
+        ]
+    },
+    {
+        "indicador": "FACU_09",
+        "descipcion_tabla": "Número de profesores y estudiantes de la institución que han participado en actividades de cooperación académica y profesional con instituciones nacionales e internacionales de reconocido liderazgo",
+        "indicadores": [
+            {
+                "indicador": "5-3",
+                "descipcion_indicador": "Existencia de convenios activos y actividades de cooperación académica desarrollados con instituciones de reconocimiento nacional e internacional.misión, docente visitante/conferencia, estancia de investigación, estudios de postgrado, docente en programa de pregrado y/o postgrado, congresos, foros, seminarios, simposios, educación continuada, par académico, parques tecnológicos, incubadoras de empresas, mesas y ruedas de negociación económica y tecnológica, entre otros)."
+            },
+            {
+                "indicador": "5-8",
+                "descipcion_indicador": "Información verificable sobre los resultados de la interacción con comunidades académicas nacionales e internacionales y su incidencia en la calidad de la Institución."
+            },
+            {
+                "indicador": "5-17",
+                "descipcion_indicador": "Número de docentes y estudiantes de la institución que en los últimos cinco años han participado en actividades de cooperación académica y profesional con instituciones nacionales e internacionales de reconocido liderazgo (semestre académico de intercambio, pasantía o práctica, rotación  médica, curso corto, misión, docente visitante/conferencia, estancia de investigación, estudios de postgrado, docente en programa de pregrado y/o postgrado,  congresos, foros, seminarios, simposios, educación continuada, par académico, parques tecnológicos, incubadoras de empresas, mesas y ruedas de negociación económica y tecnológica, entre otros)."
+            }
+        ],
+        "items_colum": [
+            "AÑO/ PERIODO",
+            "PROGRAMA",
+            "SEDE",
+            "NACIONAL",
+            "INTERNACIONAL",
+            "NOMBRE DE LA ACTIVIDAD\n(cooperación académica o profesional)",
+            "INSTITUCIÓN DONDE SE LLEVÓ A CABO LA ACTIVIDAD",
+            "DOCENTES",
+            "ESTUDIANTES",
+            ""
+        ]
+    },
+    {
+        "indicador": "FACU_10",
+        "descipcion_tabla": "Actividades académicas  organizadas por los programas  [talleres, seminarios, foros, etc] como apoyo a la investigación formativa y número de participantes\n(últimos 5 años)  - No incluir las actividades que organiza la División de Investigación Formativa",
+        "indicadores": [
+            {
+                "indicador": "6-6",
+                "descipcion_indicador": "Información verificable sobre las facilidades que ofrece la Institución para la participación de los estudiantes en actividades académicas relacionadas con investigación científica y/o la creación artística y cultural."
+            }
+        ],
+        "items_colum": [
+            "AÑO/ PERIODO ",
+            "FACULTAD",
+            "PROGRAMA",
+            "SEDE",
+            "NOMBRE DE LA ACTIVIDAD DE INVESTIGACIÓN FORMATIVA",
+            "OBJETIVO DE LA ACTIVIDAD",
+            "NÚMERO DE PARTICIPANTES",
+            ""
+        ]
+    },
+    {
+        "indicador": "FACU_11",
+        "descipcion_tabla": "Actividades organizadas por los programas relacionadas con investigación científica y/o la creación artística y cultural. \nEjemplo: expodiseño, Tunja Fashion, etc. ",
+        "indicadores": [
+            {
+                "indicador": "6-6",
+                "descipcion_indicador": "Información verificable sobre las facilidades que ofrece la Institución para la participación de los estudiantes en actividades académicas relacionadas con investigación científica y/o la creación artística y cultural."
+            }
+        ],
+        "items_colum": [
+            "AÑO/ PERIODO ",
+            "PROGRAMA",
+            "SEDE",
+            "ACTIVIDADES REALIZADAS RELACIONADOS CON LA INVESTIGACIÓN CIENTÍFICA Y/O LA CREACIÓN ARTÍSTICA Y CULTURAL",
+            "NÚMERO DE PARTICIPANTES O ASISTENTES",
+            ""
+        ]
+    },
+    {
+        "indicador": "FACU_12",
+        "descipcion_tabla": "Actividades organizadas por los programas relacionadas con investigación científica y/o la creación artística y cultural. \nEjemplo: expodiseño, Tunja Fashion, etc. ",
+        "indicadores": [
+            {
+                "indicador": "6-12",
+                "descipcion_indicador": "Información verificable sobre la estabilidad de las unidades de investigación y de los investigadores"
+            }
+        ],
+        "items_colum": [
+            "PROGRAMA",
+            "SEDE",
+            "NOMBRE DEL GRUPO DE INVESTIGACIÓN",
+            "AÑO DE CREACIÓN DEL GRUPO",
+            "NOMBRE DE LOS DOCENTES INVESTIGADORES QUE HAN PERTENECIDO AL GRUPO EN LOS ÚLTIMOS 5 AÑOS",
+            "PERIODO DE VINCULACIÓN AL GRUPO (ej: 201820)",
+            "PERIODO DE RETIRO DEL GRUPO \n(si el docente no está vinculado al mismo)",
+            "VINCULADO ACTUALMENTE A LA INSTITUCIÓN",
+            "DESVINCULADO ACTUALMENTE DE LA INSTITUCIÓN",
+            ""
+        ]
+    },
+    {
+        "indicador": "FACU_13",
+        "descipcion_tabla": "Distinciones recibidas por los egresados en el medio nacional e internacional \n(No incluir los reconocimientos de egresado distinguido que ha otorgado la Universidad de Boyacá)",
+        "indicadores": [
+            {
+                "indicador": "7-10",
+                "descipcion_indicador": "Aportes sociales de los graduados en los campos empresarial, científico, cultural, económico y político."
+            }
+        ],
+        "items_colum": [
+            "PERIODO",
+            "FECHA DE LA DISTINCIÓN",
+            "PROGRAMA",
+            "SEDE",
+            "NOMBRE DEL GRADUADO DESTACADO EN EL MEDIO",
+            "NOMBRE DE LA DISTINCIÓN",
+            "CAMPO DE  LA DISTINCIÓN //TODO: MIRAR LOS CAMPOS *",
+            "CARÁCTER DE LA DISTINCIÓN // TODO: MIRAR LOS CAMPOS *",
+            "ENTIDAD / EMPRESA QUE ENTREGA LA DISTINCIÓN",
+            ""
+        ]
+    },
+    {
+        "indicador": "FACU_14",
+        "descipcion_tabla": "Relación de sitios de práctica asignados a los estudiantes y número de estudiantes asignados",
+        "indicadores": [
+            {
+                "indicador": "7-11",
+                "descipcion_indicador": "Información verificable sobre la existencia de lineamientos, estructura y procedimientos para la realización de prácticas profesionales por parte de los estudiantes."
+            },
+            {
+                "indicador": "7-12",
+                "descipcion_indicador": "Información verificable sobre la coherencia de las prácticas de los programas académicos con las necesidades de la institución y del sector externo"
+            }
+        ],
+        "items_colum": [
+            "PERÍODO ACADÉMICO",
+            "FACULTAD",
+            "PROGRAMA",
+            "SEDE",
+            "PRÁCTICA DE CARÁCTER NACIONAL",
+            "PRÁCTICA DE CARÁCTER INTERNACIONAL",
+            "ENTIDAD/EMPRESA DE PRÁCTICA",
+            "NÚMERO DE PRACTICANTES",
+            ""
+        ]
+    },
+    {
+        "indicador": "FACU_15",
+        "descipcion_tabla": " Relación jornadas de actualización y otras actividades exclusivas para egresados,  organizadas por facultades o programas",
+        "indicadores": [
+            {
+                "indicador": "7-19",
+                "descipcion_indicador": "Participación de los graduados en la vida institucional"
+            }
+        ],
+        "items_colum": [
+            "AÑO/ PERIODO",
+            "PROGRAMA",
+            "SEDE",
+            "NOMBRE DEL EVENTO ",
+            "FECHA DE LA ACTIVIDAD O ENCUENTRO ",
+            "NÚMERO DE EGRESADOS ASISTENTES AL EVENTO O ACTIVIDAD",
+            "TOTAL DE EGRESADOS A LA FECHA DEL ENCUENTRO *",
+            "PORCENTAJE DE PARTICIPACIÓN *",
+            ""
+        ]
+    },
+    {
+        "indicador": "FACU_16",
+        "descipcion_tabla": "Relación de reuniones de revisión curricular en la cual han participado los egresados del programa",
+        "indicadores": [
+            {
+                "indicador": "7-20",
+                "descipcion_indicador": "Participación de los graduados en procesos de evaluación curricular"
+            }
+        ],
+        "items_colum": [
+            "AÑO/ PERIODO",
+            "FECHA/ PERIODO DE REUNIÓN DE REVISIÓN CURRICULAR",
+            "PROGRAMA",
+            "NOMBRE DE LOS EGRESADOS DEL PROGRAMA ASISTENTES  A LA REUNIÓN",
+            "EL EGRESADO LABORA CON LA UNIVERSIDAD DE BOYACÁ \n(marque con X)",
+            "EL EGRESADO NO LABORA CON LA UNIVERSIDAD DE BOYACÁ \n(marque con X)",
+            ""
+        ]
+    },
+    {
+        "indicador": "FACU_17",
+        "descipcion_tabla": "Estadísticas de uso de laboratorios,  talleres, centros y demás espacios administrados por facultades o programas, para el desarrollo de actividades prácticas y didácticas",
+        "indicadores": [
+            {
+                "indicador": "11-7",
+                "descipcion_indicador": "Información verificable sobre mantenimiento, renovación y acceso de estudiantes y docentes a los equipos didácticos."
+            }
+        ],
+        "items_colum": [
+            "SEDE",
+            "NOMBRE DEL LABORATORIO, TALLER, CENTRO O \nESPACIO PARA EL DESARROLLO DE ACTIVIDADES \nPRÁCTICAS Y DIDÁCTICAS",
+            "DEPENDENCIA DE LA \nFACULTAD QUE ADMINISTRA EL \nSITIO O ESPACIO",
+            "NÚMERO DE USUARIOS // TODO: REVISAR SUB TABLA",
+            "TOTAL USUARIOS",
+            ""
+        ]
+    }
+]
