@@ -41533,16 +41533,16 @@ s.tX()
 return s},
 $S:320}
 A.arc.prototype={
-$0(){return new A.tQ($.dm().$1$0(t.XW),"http://localhost:3000")},
+$0(){return new A.tQ($.dm().$1$0(t.XW),"https://rest-uniboyaca-dica.fly.dev")},
 $S:315}
 A.ard.prototype={
-$0(){return new A.tL($.dm().$1$0(t.XW),"http://localhost:3000")},
+$0(){return new A.tL($.dm().$1$0(t.XW),"https://rest-uniboyaca-dica.fly.dev")},
 $S:312}
 A.are.prototype={
-$0(){return new A.t0($.dm().$1$0(t.XW),"http://localhost:3000")},
+$0(){return new A.t0($.dm().$1$0(t.XW),"https://rest-uniboyaca-dica.fly.dev")},
 $S:302}
 A.arf.prototype={
-$0(){return new A.to($.dm().$1$0(t.XW),"http://localhost:3000")},
+$0(){return new A.to($.dm().$1$0(t.XW),"https://rest-uniboyaca-dica.fly.dev")},
 $S:300}
 A.arg.prototype={
 $0(){return new A.t2()},
