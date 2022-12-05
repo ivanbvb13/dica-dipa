@@ -28,7 +28,7 @@
             "FECHA DE TERMINACIÓN DEL EVENTO",
             "INSTITUCIÓN NACIONAL",
             "INSTITUCIÓN INTERNACIONAL",
-            "La participación se hizo como parte de interacción en red?",
+            "La participación se hizo \ncomo parte de interacción en red?",
             "NOMBRE DE LA RED O ALIANZA (Si aplica)",
             ""
         ]
@@ -231,7 +231,6 @@
         ],
         "items_colum": [
             "AÑO/ PERIODO ",
-            "FACULTAD",
             "PROGRAMA",
             "SEDE",
             "NOMBRE DE LA ACTIVIDAD DE INVESTIGACIÓN FORMATIVA",
@@ -268,6 +267,7 @@
             }
         ],
         "items_colum": [
+            "PERIODO",
             "PROGRAMA",
             "SEDE",
             "NOMBRE DEL GRUPO DE INVESTIGACIÓN",
@@ -291,13 +291,14 @@
         ],
         "items_colum": [
             "PERIODO",
-            "FECHA DE LA DISTINCIÓN",
             "PROGRAMA",
             "SEDE",
+            "FECHA DE LA DISTINCIÓN",
             "NOMBRE DEL GRADUADO DESTACADO EN EL MEDIO",
             "NOMBRE DE LA DISTINCIÓN",
-            "CAMPO DE  LA DISTINCIÓN //TODO: MIRAR LOS CAMPOS *",
-            "CARÁCTER DE LA DISTINCIÓN // TODO: MIRAR LOS CAMPOS *",
+            "CAMPO DE  LA DISTINCIÓN",
+            "CARÁCTER DE LA DISTINCIÓN NACIONAL",
+            "CARÁCTER DE LA DISTINCIÓN INTERNACIONAL",
             "ENTIDAD / EMPRESA QUE ENTREGA LA DISTINCIÓN",
             ""
         ]
@@ -316,8 +317,7 @@
             }
         ],
         "items_colum": [
-            "PERÍODO ACADÉMICO",
-            "FACULTAD",
+            "PERÍODO",
             "PROGRAMA",
             "SEDE",
             "PRÁCTICA DE CARÁCTER NACIONAL",
@@ -337,7 +337,7 @@
             }
         ],
         "items_colum": [
-            "AÑO/ PERIODO",
+            "PERIODO",
             "PROGRAMA",
             "SEDE",
             "NOMBRE DEL EVENTO ",
@@ -358,9 +358,9 @@
             }
         ],
         "items_colum": [
-            "AÑO/ PERIODO",
-            "FECHA/ PERIODO DE REUNIÓN DE REVISIÓN CURRICULAR",
+            "PERIODO",
             "PROGRAMA",
+            "SEDE",
             "NOMBRE DE LOS EGRESADOS DEL PROGRAMA ASISTENTES  A LA REUNIÓN",
             "EL EGRESADO LABORA CON LA UNIVERSIDAD DE BOYACÁ \n(marque con X)",
             "EL EGRESADO NO LABORA CON LA UNIVERSIDAD DE BOYACÁ \n(marque con X)",
@@ -380,8 +380,10 @@
             "SEDE",
             "NOMBRE DEL LABORATORIO, TALLER, CENTRO O \nESPACIO PARA EL DESARROLLO DE ACTIVIDADES \nPRÁCTICAS Y DIDÁCTICAS",
             "DEPENDENCIA DE LA \nFACULTAD QUE ADMINISTRA EL \nSITIO O ESPACIO",
-            "NÚMERO DE USUARIOS // TODO: REVISAR SUB TABLA",
-            "TOTAL USUARIOS",
+            "NÚMERO DE USUARIOS\n(ESTUDIANTES)",
+            "NÚMERO DE USUARIOS\n(DOCENTES)",
+            "NÚMERO DE USUARIOS\n(OTROS)",
+            "TOTAL \nUSUARIOS",
             ""
         ]
     }

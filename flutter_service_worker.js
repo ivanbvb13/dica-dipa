@@ -7,7 +7,7 @@ const RESOURCES = {
 "assets/assets/data/paises.json": "46c8800b186a53df1beec31289b30552",
 "assets/assets/data/programas.json": "698f9e58a626fa068c1a42ad7c1fcbc3",
 "assets/assets/data/sedes.json": "4ccc45f0a5ad8eeb89042376239f4658",
-"assets/assets/data/tables.json": "5da27d1a1114d4c8e86e525812fb03c6",
+"assets/assets/data/tables.json": "df8cc3537643a91f54dc87a238942a86",
 "assets/assets/data/universidades.json": "84e04fefce8a2d9bd950a5e0ac042f14",
 "assets/assets/image/fondo_login.jpg": "b7e9b613bf42947a7a5a7c1a0614fed4",
 "assets/assets/image/logo-universidad-de-boyaca-1.png": "f95646aacbe2efeef03360eac1d795aa",
@@ -28,9 +28,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "cee7fbbdc55d4aa65f288ec0682cec30",
-"/": "cee7fbbdc55d4aa65f288ec0682cec30",
-"main.dart.js": "620ce4de3cd3d42e4bcb5c52b8e306e7",
+"index.html": "9dc08fc557e446ac27e94b4c96487fe8",
+"/": "9dc08fc557e446ac27e94b4c96487fe8",
+"main.dart.js": "fbe05eabdfbf274a01828c01b6031348",
 "manifest.json": "6c9bd10d67fccfefe9778105d4aec5a3",
 "version.json": "73fad25bc5f639ac7e0d92d506a4b730"
 };
